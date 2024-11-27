@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 2024-11-27 22:30 CET
+  Introduction:
+    - prove of concept - molten copper
+    - cooling process and custom pipe type that not collide with water pipes.
+      (later may be replaced by custom texture, the molten iron and copper will be then displayed
+      like stripe of light)
+  Author:
+    - DeznekCZ
+---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 2024-11-27 1:50 CET
   Introduction:
